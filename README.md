@@ -1,4 +1,4 @@
-It is a python based messenger application , to run :
+It is a python based messenger application.
 
 Step 1 : Run server.py 
 			
